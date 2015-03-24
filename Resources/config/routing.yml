@@ -1,0 +1,4 @@
+pfc_controller:
+    resource: "@SimusantePFCBundle/Controller/PFCController.php"
+    type: annotation
+    prefix: /
