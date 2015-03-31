@@ -6,14 +6,9 @@
     "license": "GPL-3.0+",
     "require": {
         "php": ">=5.4.1",
-        "claroline/core-bundle": "~4.1"
+        "claroline/core-bundle": "~4.1",
+        "kerphi/phpfreechat": "dev-master"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/kerphi/phpfreechat"
-        }
-    ],
     "autoload": {
         "psr-0": { "Simusante\\PFC": "" }
     },
