@@ -7,7 +7,7 @@
     "require": {
         "php": ">=5.4.1",
         "claroline/core-bundle": "~4.1",
-        "kerphi/phpfreechat": "dev-master"
+        "slimphp/Slim": "dev-master"
     },
     "autoload": {
         "psr-0": { "Simusante\\PFC": "" }
